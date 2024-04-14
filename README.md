@@ -6,4 +6,4 @@ I like my cat Chernesh, and to play on the [trombone](https://en.wikipedia.org/w
 
 Say meowelloo to Chernesh 
 
-![](WhatsApp Image 2024-04-14 at 19.39.51.jpeg)
+![](PHOTO-2024-04-14-19-52-18.jpg)
