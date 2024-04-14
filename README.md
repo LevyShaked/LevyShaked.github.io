@@ -2,7 +2,7 @@
 
 Hi, im a chemistry master student 
 
-I like my cat Chernesh, and play on the [trombone](https://en.wikipedia.org/wiki/Trombone)
+I like my cat Chernesh, and to play on the [trombone](https://en.wikipedia.org/wiki/Trombone)
 
 Say meowelloo to Chernesh 
 
