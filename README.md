@@ -1,7 +1,7 @@
-# Shaked Levy 
+
 Hi, im a chemistry master student 
 
-I like my cat Chernesh, and I enjoy playing the [trombone](https://en.wikipedia.org/wiki/Trombone)
+I love my cat Chernesh, and I enjoy playing the [trombone](https://en.wikipedia.org/wiki/Trombone)
 
 Say meowelloo to Chernesh 
 
