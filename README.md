@@ -1,5 +1,5 @@
 # LevyShaked.github.io
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 title: Levy's Homepage
 
 Hi, im a chemistry master student 
