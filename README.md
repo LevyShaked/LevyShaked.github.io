@@ -1,7 +1,4 @@
-# LevyShaked.github.io
-theme: jekyll-theme-cayman
-title: Levy's Homepage
-
+# Shaked Levy 
 Hi, im a chemistry master student 
 
 I like my cat Chernesh, and I enjoy playing the [trombone](https://en.wikipedia.org/wiki/Trombone)
