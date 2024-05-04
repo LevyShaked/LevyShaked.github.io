@@ -12,4 +12,4 @@ Say meowelloo to Chernesh
 
 ![](PHOTO-2024-04-14-19-52-18.jpg)
 
-[mac](/mac.md)
+About the [Python course](/course.md)
