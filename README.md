@@ -6,10 +6,6 @@ I'm doing my third rotation at [Dr. Elena Meirzadeh lab](https://www.weizmann.ac
 
 I love my cat Chernesh, and I enjoy playing the [trombone](https://en.wikipedia.org/wiki/Trombone)
 
-About the [python course](https://github.com/szabgab/wis-python-course-2024-04?tab=readme-ov-file):
-The python course gives a basic skills in pyhthon programming language,
-by using git hub as a code managing tool
-
 My courses' [Assignments repository](https://github.com/LevyShaked/Assignments_rep) 
 
 
