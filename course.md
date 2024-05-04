@@ -4,7 +4,6 @@ The python course gives a basic skills in pyhthon programming language,
 by using git hub as a code managing tool
 
 
-''
 View others' homepages:
 
 [Adam Liberman](https://adamliberman.github.io/)
