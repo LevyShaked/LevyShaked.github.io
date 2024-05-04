@@ -1,5 +1,5 @@
 
-Hi, im a chemistry master student 
+Hi, im a chemistry master student__
 I'm doing my third rotation at [Dr. Elena Meirzadeh lab](https://www.weizmann.ac.il/MCMS/meirzadeh/)
 
 ![](https://github.com/LevyShaked/LevyShaked.github.io/assets/167014554/74d3645b-548a-438a-9683-c363fa9a1a67)
