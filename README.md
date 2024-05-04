@@ -8,13 +8,8 @@ I love my cat Chernesh, and I enjoy playing the [trombone](https://en.wikipedia.
 
 My courses' [Assignments repository](https://github.com/LevyShaked/Assignments_rep) 
 
-
 Say meowelloo to Chernesh 
 
 ![](PHOTO-2024-04-14-19-52-18.jpg)
-
-View others' homepages:
-[Adam Liberman](https://adamliberman.github.io/)
-[Adi Bar-El Meisel](https://adibarelmeisel.github.io/)
 
 [mac](/mac.md)
